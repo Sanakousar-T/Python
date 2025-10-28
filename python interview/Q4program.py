@@ -3,7 +3,7 @@ write a python program to count the number of times a class is called
 or
 how to count number of instances of a class in python?
 """
-#way1
+#way1 : using class variable
 class A:
   count=0
   def __init__(self):
