@@ -1,5 +1,5 @@
 """
-write a program to print unique charecters in a string
+write a program to print unique characters in a string
 str='test'
 expected output: e,s
 """
